@@ -1,6 +1,6 @@
 # Quiz Scoring System Using ESP32
 ## Introduction
-This project is a simulation/miniature of a quiz scoring system controlled by an ESP32. The purpose of this project is to create a simulation of a smart and careful assessment system with a button for each team, with three teams participating so there are three buttons. Each team also has a score indicator with a maximum value of 9, where this indicator will also show the name of the team, namely "A", "B", and "C". In addition, from the jury, there are also buttons, namely a button to state whether the answer is right or wrong and a reset button to go to the next stage.
+This project is a simulation/miniature of a quiz scoring system controlled by an ESP32. The purpose of this project is to create a simulation of a smart and careful assessment system with a button for each team, with three teams participating so there are three buttons. Each team also has a score indicator with a maximum value of 9, where this indicator will also show the name of the team, namely "A", "B", and "C". In addition, from the judge, there are also buttons, namely a button to state whether the answer is right or wrong and a reset button to go to the next stage.
 ## Demo Video
 https://youtu.be/3s6_UFzeSBg
 # Quiz Scoring System Using a 3-Digit 7-Segment Display with ESP32
@@ -62,12 +62,9 @@ This system is designed for quiz competitions, featuring:
      - Displays for other teams are turned off.
      - The system resets only after the `Standby` button is pressed.
 
-10. **Optional Buzzer Accessory**  
+10. ** uzzer Accessory**  
     - A buzzer can be added to indicate status changes.
     - The tone and duration can be customized, considering technical constraints.
-
-## Summary
-This scoring system simplifies quiz competitions by automating score tracking and team management, using an ESP32 and intuitive controls for both participants and judges.
 
 ## Components 
 1. 7-segment Common Anode (You can use a single three-digit seven-segment display instead of three single-digit seven-segment displays.)
