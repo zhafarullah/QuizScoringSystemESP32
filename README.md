@@ -61,7 +61,7 @@ This system is designed for quiz competitions, featuring:
      - Displays for other teams are turned off.
      - The system resets only after the `Standby` button is pressed.
 
-10. ** uzzer Accessory**  
+10. **Buzzer Accessory**  
     - A buzzer can be added to indicate status changes.
     - The tone and duration can be customized, considering technical constraints.
 
