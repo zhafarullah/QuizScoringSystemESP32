@@ -4,7 +4,7 @@ This project is a simulation/miniature of a quiz scoring system controlled by an
 ## Demo Video
 https://youtu.be/3s6_UFzeSBg
 ## Components 
-1. 7-segment Common Anode
+1. 7-segment Common Anode (You can use a single three-digit seven-segment display instead of three single-digit seven-segment displays.)
 2. Micro Limit Switch Normally Closed
 3. ESP32
 4. Passive Buzzer
